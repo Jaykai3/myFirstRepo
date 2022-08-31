@@ -1,2 +1,7 @@
-some text woohoo
-im adding a line at the end.
+I'm some text at the beginning.
+
+Here is my first file.
+It has some text.
+Isn't this great!!!
+
+Im adding a line at the end.
